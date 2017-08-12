@@ -1,0 +1,27 @@
+.large-image {
+    height: 300px;
+}
+
+.small-image {
+    width: 50%;
+    margin: 0 25%;
+}
+
+.color-selections {
+   
+}
+#red { background-color: red;}
+#blue { background-color: blue;}
+#green { background-color: green;}
+#orange { background-color: orange;}
+#purple { background-color: purple;}
+#pink { background-color: pink;}
+#black { background-color: #00011f;}
+#white { background-color: white;}
+#grey { background-color: grey;}
+
+.color-selection {
+    display: inline-block;
+    width: 7%;
+    height: 28px;
+}
